@@ -1,0 +1,21 @@
+property_name,location,price,rental_income,expenses,property_type,size_sqft,bedrooms,year_built,notes
+King West Condo,"Toronto, ON",780000,3200,950,Condo,620,1,2018,"Steps to TTC, high demand"
+Plateau Duplex,"Montreal, QC",620000,3800,700,Duplex,1400,3,2005,Strong rental market
+Beltline Townhouse,"Calgary, AB",520000,2600,550,Townhouse,1100,2,2012,No provincial income tax
+Kitsilano 2BR,"Vancouver, BC",1100000,3800,1200,Condo,780,2,2016,"Near beach, high appreciation"
+Centretown Flat,"Ottawa, ON",480000,2200,600,Condo,650,1,2014,Near Parliament Hill
+Westmount Triplex,"Montreal, QC",890000,5400,1100,Triplex,2200,5,1998,"Prestigious area, stable tenants"
+Oliver District Condo,"Edmonton, AB",310000,1800,420,Condo,590,1,2017,"Walkable, near river valley"
+Leslieville Semi,"Toronto, ON",950000,3600,980,Semi-Detached,1050,3,2002,"Gentrifying area, strong upside"
+Mission Bungalow,"Calgary, AB",640000,2800,600,Detached,1200,3,1978,"Renovated, inner city lot"
+Corktown Loft,"Hamilton, ON",420000,2100,500,Loft,720,1,2010,"Art district, growing market"
+Roncesvalles House,"Toronto, ON",1250000,4200,1100,Detached,1400,4,1935,"Prime neighbourhood, land value"
+Marda Loop Condo,"Calgary, AB",390000,2000,480,Condo,640,2,2019,Popular walkable area
+Griffintown Studio,"Montreal, QC",340000,1900,420,Studio,420,0,2020,"New development, high rental demand"
+Glebe Townhouse,"Ottawa, ON",720000,3100,750,Townhouse,1100,3,2008,"Family area, near canal"
+South Granville Suite,"Vancouver, BC",880000,3200,950,Condo,700,2,2015,"Luxury area, stable income"
+North End Duplex,"Halifax, NS",380000,2800,550,Duplex,1300,3,1990,"Up and coming market, affordable"
+Varsity Condo,"Calgary, AB",420000,2100,490,Condo,710,2,2011,"Near U of C, reliable student tenants"
+Distillery Loft,"Toronto, ON",680000,2900,820,Loft,680,1,2006,"Tourist area, Airbnb potential"
+St Boniface Bungalow,"Winnipeg, MB",295000,1700,380,Detached,1050,3,1965,"Affordable market, steady cash flow"
+Fairview Apartment,"Vancouver, BC",760000,2900,880,Condo,660,2,2013,"Central location, strong yield"

@@ -1,0 +1,4 @@
+property_name,location,price,rental_income,expenses,property_type,size_sqft,bedrooms,year_built,notes
+King West Condo,"Toronto, ON",780000,3200,950,Condo,620,1,2018,Steps to TTC
+Plateau Duplex,"Montreal, QC",620000,3800,700,Duplex,1400,3,2005,Strong rental market
+Beltline Townhouse,"Calgary, AB",520000,2600,550,Townhouse,1100,2,2012,No provincial income tax
